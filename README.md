@@ -1,5 +1,5 @@
-#  Izumi A
-👋 Hello, World! Welcome to my GitHub profile! <br/>
+## Hello, I'm Izumi 👋
+Welcome to my GitHub profile! <br/>
 I am a penultimate Information Systems undergrad who enjoys coding. I am passionate in exploring new languages and frameworks! 
 
 <!--
