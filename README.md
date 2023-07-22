@@ -2,17 +2,14 @@
 👋 Hello, World! Welcome to my GitHub profile! <br/>
 I am a penultimate Information Systems undergrad who enjoys coding. I am passionate in exploring new languages and frameworks! 
 
+<!--
 ## Skills
-
+-->
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izumiaa)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 <!--
-**izumiaa/izumiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
