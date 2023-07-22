@@ -1,6 +1,7 @@
-### Hi there 👋
-
+# Izumi 
 I am a penultimate Information Systems undergrad who enjoys coding. I am passionate in exploring new languages and frameworks! 
+
+## Skills
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izumiaa)](https://github.com/anuraghazra/github-readme-stats)
