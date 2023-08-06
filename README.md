@@ -1,6 +1,6 @@
 ## Hello 👋 I'm Izumi 
 Welcome to my GitHub profile! <br/>
-I am a penultimate Information Systems undergrad who enjoys coding. I am passionate in exploring new languages and frameworks! 
+I am passionate in exploring new languages and frameworks! 
 
 <!--
 ## Skills
